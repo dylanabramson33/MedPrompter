@@ -1,2 +1,1 @@
-# AlphaFold3Breakdown
 # MedPrompter
